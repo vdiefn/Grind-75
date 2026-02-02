@@ -1,6 +1,7 @@
 # 📙資料結構與演算法筆記
 ### String
 - [X] 125. Valid Palindrome
+- [X] 242. Valid Anagram
 
 ### Array
 - [X] 1. Two Sum
