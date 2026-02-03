@@ -12,4 +12,6 @@
 - [X] 141. Linked List Cycle
 
 ### Stack
-- [X] Implement Queue using Stacks
+- [X] 20. Valid Parenthese
+- [X] 232. Implement Queue using Stacks
+
