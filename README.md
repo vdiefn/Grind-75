@@ -15,3 +15,6 @@
 - [X] 20. Valid Parenthese
 - [X] 232. Implement Queue using Stacks
 
+### Binary Tree
+- [X] 226. Invert Binary Tree
+
