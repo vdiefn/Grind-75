@@ -4,7 +4,7 @@
 - [X] 242. Valid Anagram
 
 ### Array
-- [X] 1. Two Sum
+- [X] 1. [Two Sum](https://github.com/vdiefn/Grind-75/tree/main/solutions/1.%20Two%20Sum) 
 - [X] 121. Best Time to Buy and Sell Stock
 
 ### Link Lists
