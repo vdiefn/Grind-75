@@ -4,7 +4,7 @@
 - [X] [242. Valid Anagram](https://github.com/vdiefn/Grind-75/tree/main/solutions/242.%20Valid%20Anagram)
 
 ### Array
-- [X] [1. Two Sum](https://github.com/vdiefn/Grind-75/tree/main/solutions/1.%20Two%20Sum) 
+- [X] [1. Two Sum](https://github.com/vdiefn/Grind-75/tree/main/solutions/1.%20Two%20Sum)
 - [X] [121. Best Time to Buy and Sell Stock](https://github.com/vdiefn/Grind-75/tree/main/solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)
 
 ### Link Lists
@@ -17,4 +17,5 @@
 
 ### Binary Tree
 - [X] [226. Invert Binary Tree](https://github.com/vdiefn/Grind-75/tree/main/solutions/226.%20Invert%20Binary%20Tree)
+- [X] [110. Balanced Binary Tree]
 
