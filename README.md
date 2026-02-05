@@ -19,4 +19,5 @@
 ### Binary Tree
 - [X] [226. Invert Binary Tree](https://github.com/vdiefn/Grind-75/tree/main/solutions/226.%20Invert%20Binary%20Tree)
 - [X] [110. Balanced Binary Tree]
+- [X] [235. Lowest Common Ancester of a Binary Search Tree]
 
