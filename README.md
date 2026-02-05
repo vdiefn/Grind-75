@@ -7,7 +7,7 @@
 - [X] [1. Two Sum](https://github.com/vdiefn/Grind-75/tree/main/solutions/1.%20Two%20Sum)
 - [X] [121. Best Time to Buy and Sell Stock](https://github.com/vdiefn/Grind-75/tree/main/solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)
 - [X] [704. Binary Search](https://github.com/vdiefn/Grind-75/tree/main/solutions/704.%20Binary%20Search)
-- [X] [278. First Bad Version]
+- [X] [278. First Bad Version](https://github.com/vdiefn/Grind-75/tree/main/solutions/278.%20First%20Bad%20Version)
 
 ### Link Lists
 - [X] [21. Merge Two Sorted Lists](https://github.com/vdiefn/Grind-75/tree/main/solutions/21.%20Merge%20Two%20Sorted%20Lists)
