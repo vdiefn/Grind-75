@@ -2,6 +2,7 @@
 ### String
 - [X] [125. Valid Palindrome](https://github.com/vdiefn/Grind-75/tree/main/solutions/125.%20Valid%20Palindrome)
 - [X] [242. Valid Anagram](https://github.com/vdiefn/Grind-75/tree/main/solutions/242.%20Valid%20Anagram)
+- [X] [409. Longest Palindrome]
 
 ### Array
 - [X] [1. Two Sum](https://github.com/vdiefn/Grind-75/tree/main/solutions/1.%20Two%20Sum)
