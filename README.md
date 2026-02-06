@@ -15,7 +15,7 @@
 ### Link Lists
 - [X] [21. Merge Two Sorted Lists](https://github.com/vdiefn/Grind-75/tree/main/solutions/21.%20Merge%20Two%20Sorted%20Lists)
 - [X] [141. Linked List Cycle](https://github.com/vdiefn/Grind-75/tree/main/solutions/141.%20Linked%20List%20Cycle)
-- [X] [206. Reverse Linked List]
+- [X] [206. Reverse Linked List](https://github.com/vdiefn/Grind-75/tree/main/solutions/206.%20Reverse%20Linked%20List)
 
 ### Stack
 - [X] [20. Valid Parenthese](https://github.com/vdiefn/Grind-75/tree/main/solutions/20.%20Valid%20Parenthese)
