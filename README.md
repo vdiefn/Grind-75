@@ -12,7 +12,7 @@
 - [X] [278. First Bad Version](https://github.com/vdiefn/Grind-75/tree/main/solutions/278.%20First%20Bad%20Version)
 - [X] [704. Binary Search](https://github.com/vdiefn/Grind-75/tree/main/solutions/704.%20Binary%20Search)
 
-### Link Lists
+### Linked Lists
 - [X] [21. Merge Two Sorted Lists](https://github.com/vdiefn/Grind-75/tree/main/solutions/21.%20Merge%20Two%20Sorted%20Lists)
 - [X] [141. Linked List Cycle](https://github.com/vdiefn/Grind-75/tree/main/solutions/141.%20Linked%20List%20Cycle)
 - [X] [206. Reverse Linked List]
