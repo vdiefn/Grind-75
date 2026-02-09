@@ -1,6 +1,6 @@
 # 📙資料結構與演算法筆記
 ### Dynamic Programming
-- [X] [70. Climbing Stairs]
+- [X] [70. Climbing Stairs](https://github.com/vdiefn/Grind-75/tree/main/solutions/70.%20Climbing%20Stairs)
 
 ### String
 - [X] [125. Valid Palindrome](https://github.com/vdiefn/Grind-75/tree/main/solutions/125.%20Valid%20Palindrome)
