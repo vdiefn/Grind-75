@@ -3,6 +3,9 @@
 - [X] [70. Climbing Stairs](https://github.com/vdiefn/Grind-75/tree/main/solutions/70.%20Climbing%20Stairs)
 - [X] [383. Ransom Note](https://github.com/vdiefn/Grind-75/tree/main/solutions/383.%20Ransom%20Note)
 
+### Binary
+- [X] [67. Add Binary]
+
 ### String
 - [X] [125. Valid Palindrome](https://github.com/vdiefn/Grind-75/tree/main/solutions/125.%20Valid%20Palindrome)
 - [X] [242. Valid Anagram](https://github.com/vdiefn/Grind-75/tree/main/solutions/242.%20Valid%20Anagram)
