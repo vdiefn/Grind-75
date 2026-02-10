@@ -20,7 +20,7 @@
 - [X] [21. Merge Two Sorted Lists](https://github.com/vdiefn/Grind-75/tree/main/solutions/21.%20Merge%20Two%20Sorted%20Lists)
 - [X] [141. Linked List Cycle](https://github.com/vdiefn/Grind-75/tree/main/solutions/141.%20Linked%20List%20Cycle)
 - [X] [206. Reverse Linked List](https://github.com/vdiefn/Grind-75/tree/main/solutions/206.%20Reverse%20Linked%20List)
-- [X] [876. Middle of the Linked List]
+- [X] [876. Middle of the Linked List](https://github.com/vdiefn/Grind-75/tree/main/solutions/876.%20Middle%20of%20the%20Linkded%20List)
 
 ### Stack
 - [X] [20. Valid Parenthese](https://github.com/vdiefn/Grind-75/tree/main/solutions/20.%20Valid%20Parenthese)
@@ -28,7 +28,6 @@
 
 ### Binary Tree
 - [X] [226. Invert Binary Tree](https://github.com/vdiefn/Grind-75/tree/main/solutions/226.%20Invert%20Binary%20Tree)
-
 - [X] [110. Balanced Binary Tree](https://github.com/vdiefn/Grind-75/tree/main/solutions/110.%20Balanced%20Binary%20Tree)
 - [X] [235. Lowest Common Ancester of a Binary Search Tree](https://github.com/vdiefn/Grind-75/tree/main/solutions/235.%20Lowest%20Common%20Ancester%20of%20a%20Binary%20Search%20Tree)
 
