@@ -33,5 +33,5 @@
 - [X] [226. Invert Binary Tree](https://github.com/vdiefn/Grind-75/tree/main/solutions/226.%20Invert%20Binary%20Tree)
 - [X] [110. Balanced Binary Tree](https://github.com/vdiefn/Grind-75/tree/main/solutions/110.%20Balanced%20Binary%20Tree)
 - [X] [235. Lowest Common Ancester of a Binary Search Tree](https://github.com/vdiefn/Grind-75/tree/main/solutions/235.%20Lowest%20Common%20Ancester%20of%20a%20Binary%20Search%20Tree)
-- [X] [543. Diameter of Binary Tree]
+- [X] [543. Diameter of Binary Tree](https://github.com/vdiefn/Grind-75/tree/main/solutions/543.%20Diameter%20of%20Binary%20Tree)
 
