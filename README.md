@@ -4,7 +4,7 @@
 - [X] [383. Ransom Note](https://github.com/vdiefn/Grind-75/tree/main/solutions/383.%20Ransom%20Note)
 
 ### Math
-- [X] [9. Palindrome Number]
+- [X] [9. Palindrome Number](https://github.com/vdiefn/Grind-75/tree/main/solutions/9.%20Palindrome%20Number)
 
 ### Binary
 - [X] [67. Add Binary](https://github.com/vdiefn/Grind-75/tree/main/solutions/67.%20Add%20Binary)
