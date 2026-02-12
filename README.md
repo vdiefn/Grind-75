@@ -33,6 +33,7 @@
 - [X] [100. Same Tree](https://github.com/vdiefn/Grind-75/tree/main/solutions/100.%20Same%20Tree)
 - [X] [101. Symmetric Tree](https://github.com/vdiefn/Grind-75/tree/main/solutions/101.%20Symmetric%20Tree)
 - [X] [104. Maximum Depth of Binary Tree](https://github.com/vdiefn/Grind-75/tree/main/solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree)
+- [X] [108. Convert Sorted Array to Binary Search Tree]
 - [X] [226. Invert Binary Tree](https://github.com/vdiefn/Grind-75/tree/main/solutions/226.%20Invert%20Binary%20Tree)
 - [X] [110. Balanced Binary Tree](https://github.com/vdiefn/Grind-75/tree/main/solutions/110.%20Balanced%20Binary%20Tree)
 - [X] [235. Lowest Common Ancester of a Binary Search Tree](https://github.com/vdiefn/Grind-75/tree/main/solutions/235.%20Lowest%20Common%20Ancester%20of%20a%20Binary%20Search%20Tree)
