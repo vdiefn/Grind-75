@@ -32,6 +32,7 @@
 ### Stack
 - [X] [20. Valid Parenthese](https://github.com/vdiefn/Grind-75/tree/main/solutions/20.%20Valid%20Parenthese)
 - [X] [232. Implement Queue using Stacks](https://github.com/vdiefn/Grind-75/tree/main/solutions/232.%20Implement%20Queue%20using%20Stacks)
+- [X] [844. Backspace String Compare]
 
 ### Binary Tree
 - [X] [100. Same Tree](https://github.com/vdiefn/Grind-75/tree/main/solutions/100.%20Same%20Tree)
