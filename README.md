@@ -10,6 +10,7 @@
 - [X] [67. Add Binary](https://github.com/vdiefn/Grind-75/tree/main/solutions/67.%20Add%20Binary)
 
 ### String
+- [X] [14. Longest Common Prefix]
 - [X] [125. Valid Palindrome](https://github.com/vdiefn/Grind-75/tree/main/solutions/125.%20Valid%20Palindrome)
 - [X] [242. Valid Anagram](https://github.com/vdiefn/Grind-75/tree/main/solutions/242.%20Valid%20Anagram)
 - [X] [409. Longest Palindrome](https://github.com/vdiefn/Grind-75/tree/main/solutions/409.%20Longest%20Palindrome)
