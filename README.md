@@ -8,6 +8,7 @@
 
 ### Binary
 - [X] [67. Add Binary](https://github.com/vdiefn/Grind-75/tree/main/solutions/67.%20Add%20Binary)
+- [X] [338. Counting Bits]
 
 ### String
 - [X] [14. Longest Common Prefix](https://github.com/vdiefn/Grind-75/tree/main/solutions/14.%20Longest%20Common%20Prefix)
