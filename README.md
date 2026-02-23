@@ -8,6 +8,7 @@
 
 ### Binary
 - [X] [67. Add Binary](https://github.com/vdiefn/Grind-75/tree/main/solutions/67.%20Add%20Binary)
+- [X] [191. Number of 1 Bits]
 - [X] [338. Counting Bits](https://github.com/vdiefn/Grind-75/tree/main/solutions/338.%20Counting%20Bits)
 
 ### String
