@@ -28,6 +28,7 @@
 - [X] [283. Move Zeroes](https://github.com/vdiefn/Grind-75/tree/main/solutions/283.%20Move%20Zeroes)
 - [X] [278. First Bad Version](https://github.com/vdiefn/Grind-75/tree/main/solutions/278.%20First%20Bad%20Version)
 - [X] [704. Binary Search](https://github.com/vdiefn/Grind-75/tree/main/solutions/704.%20Binary%20Search)
+- [X] [977. Squares of a Sorted Array]
 
 ### Linked Lists
 - [X] [21. Merge Two Sorted Lists](https://github.com/vdiefn/Grind-75/tree/main/solutions/21.%20Merge%20Two%20Sorted%20Lists)
