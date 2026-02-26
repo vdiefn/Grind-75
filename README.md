@@ -34,7 +34,7 @@
 - [X] [21. Merge Two Sorted Lists](https://github.com/vdiefn/Grind-75/tree/main/solutions/21.%20Merge%20Two%20Sorted%20Lists)
 - [X] [141. Linked List Cycle](https://github.com/vdiefn/Grind-75/tree/main/solutions/141.%20Linked%20List%20Cycle)
 - [X] [206. Reverse Linked List](https://github.com/vdiefn/Grind-75/tree/main/solutions/206.%20Reverse%20Linked%20List)
-- [X] [234. Palindrome Linked List]
+- [X] [234. Palindrome Linked List](https://github.com/vdiefn/Grind-75/tree/main/solutions/234.%20Palindrome%20Linked%20List)
 - [X] [876. Middle of the Linked List](https://github.com/vdiefn/Grind-75/tree/main/solutions/876.%20Middle%20of%20the%20Linkded%20List)
 
 ### Stack
