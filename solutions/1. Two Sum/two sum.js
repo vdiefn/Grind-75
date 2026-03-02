@@ -11,20 +11,31 @@ function twoSum(nums, target) {
 };
 */
 
-//方法二、使用map ($O(n))
-function twoSum(nums, target) {
+var twoSum = function(nums, target) {
   const map = new Map()
-  for(let i=0; i<nums.length; i++){
-    const complement = target - nums[i]
-    //如果找到了可以湊成target的值就可以return
-    if(map.has(complement)) {
-      return [i, map.get(complement)]
-    }
-
-    //找不到的話加入map
-    map.set( i, nums[i],)
+  for(let i=0; i < nums.length; i++){
+    let number = target - nums[i]
+    if(map.has(number)) return [map.get(number), i]
+    map.set(nums[i], i)
   }
 }
 
 
-console.log(twoSum([3,2,4], 6))
+
+//方法二、使用map ($O(n))
+// function twoSum(nums, target) {
+//   const map = new Map()
+//   for(let i=0; i<nums.length; i++){
+//     const complement = target - nums[i]
+//     //如果找到了可以湊成target的值就可以return
+//     if(map.has(complement)) {
+//       return [i, map.get(complement)]
+//     }
+
+//     //找不到的話加入map
+//     map.set( i, nums[i],)
+//   }
+// }
+
+
+console.log(twoSum([3,2,4], 6)) //[1,2]
