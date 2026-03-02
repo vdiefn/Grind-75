@@ -13,6 +13,7 @@ var maxProfit = function(prices) {
 };
 */
 
+
 //方法二 (O(n)）
 var maxProfit = function(prices) {
   let min = Infinity
