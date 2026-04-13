@@ -1,6 +1,8 @@
 # 📙資料結構與演算法筆記
 ### Dynamic Programming
 - [X] [70. Climbing Stairs](https://github.com/vdiefn/Grind-75/tree/main/solutions/70.%20Climbing%20Stairs)
+
+### Hash Table
 - [X] [383. Ransom Note](https://github.com/vdiefn/Grind-75/tree/main/solutions/383.%20Ransom%20Note)
 
 ### Math
