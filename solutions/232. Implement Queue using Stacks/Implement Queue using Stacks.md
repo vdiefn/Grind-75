@@ -7,6 +7,12 @@
     - empty()：檢查大小或是否為空。
 
 ### 解題思路
+2026/04/23 更新
+peek和pop的概念：
+1. 會先去stackOut查看是否有資料，若有資料查看stackOut的最後一筆，若沒有資料才需要把stackIn裡的東西移到stackOut
+2. 因為stackIn裡可能會有多筆資料，所以需要一次性將stackIn裡的東西移到stackOut才行
+3. 這兩者的差別只有在最後return的時候，pop會把值丟出去，而peek只是讓你知道值是多少
+---
 1. 為了模擬後進先出以及先進先出的情景，要先建立兩個array，一個是stackIn，模擬後進先出，一個是stackOut，模擬先進先出
 2. pop和peek這兩個方法都是stackOut使用的
 3. 如果stackOut裡面還有資料，就直接pop/peek最後一筆
