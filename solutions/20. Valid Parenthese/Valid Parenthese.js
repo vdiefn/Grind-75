@@ -1,3 +1,23 @@
+// 精簡寫法
+var isValid = function(s) {
+  const stack = []
+  const map = {")":"(", "]":"[", "}":"{"}
+
+  for(const item of s){
+    if(map[item]){
+      if(stack.pop() !== map[item]) {
+        return false
+      }
+    } else{
+      stack.push(item)
+    }
+  }
+
+  return stack.length === 0
+}
+
+
+/*
 var isValid = function(s) {
   const stack = []
   const map = {
@@ -20,7 +40,9 @@ var isValid = function(s) {
   }
   return stack.length === 0
 };
-
+*/
 console.log(isValid("()")) //true
-console.log(isValid("(]")) //false
-console.log(isValid("([])")) //true
+console.log(isValid("()[]{}")) //true
+console.log(isValid("(]")) // false
+console.log(isValid("([])")) // true
+console.log(isValid("([)]")) // false
